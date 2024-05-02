@@ -1,6 +1,6 @@
 
 
-# \<h1>Olá! Meu nome é Felipe\</h1>
+# Olá! Meu nome é Felipe
 
 ##### "Às vezes, as pessoas não querem ouvir a verdade porque não querem que suas ilusões sejam destruídas." <br> -Nietzsche
 
@@ -11,7 +11,7 @@
 
 
 
-## \<h2>Tecnologias que eu uso\</h2>
+## Tecnologias que eu uso
 
 <div style="display: inline_brock">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
