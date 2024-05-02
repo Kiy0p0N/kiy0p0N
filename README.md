@@ -2,8 +2,10 @@
 
 # \<h1>Olá! Meu nome é Felipe\</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_feliippe__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-cesar-rodrigues)
+##### "Às vezes, as pessoas não querem ouvir a verdade porque não querem que suas ilusões sejam destruídas." <br> -Nietzsche
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_feliippe__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-cesar-rodrigues) [![Portfolio](https://img.shields.io/website?label=felipe-cesar-rodrigues.com.br&style=for-the-badge&url=https://felipe-cesar-rodrigues.com.br)](https://www.felipe-cesar-rodrigues.com.br)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiy0p0N&show_icons=true&theme=tokyonight)
 
@@ -19,6 +21,4 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0p0N&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
