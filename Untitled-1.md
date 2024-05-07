@@ -27,5 +27,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0p0N&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-    <img src="C:\Users\fr394\OneDrive\Documentos\myProjects\readme\ipe.jpg" alt="Foto de um ipe durante o nascer do sol no bairro de Luminosa, MG">
+    <img src="ipe.jpg" alt="Foto de um ipe durante o nascer do sol no bairro de Luminosa, MG">
 </p>
