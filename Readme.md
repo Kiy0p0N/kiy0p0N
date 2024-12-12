@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Felipe</h2>
+<h2 align="left">Olá 👋! Meu nome é Felipe</h2>
 
 ###
 
@@ -19,12 +19,18 @@
 
 ###
 
-<h3 align="left">Aprendizado</h3>
+<h3 align="left">Aprendizado 👨‍💻</h3>
 
 ###
 
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Uninter, enquanto aprofundo meus conhecimentos em desenvolvimento web e inteligência artificial por meio de cursos complementares, como The Complete 2024 Web Development Bootcamp e React - The Complete Guide 2024.<br><br>Ao longo da minha jornada, conclui cursos que fortaleceram tanto minhas habilidades técnicas quanto pessoais:<br>
-Plataforma Proa – Desenvolvimento pessoal e habilidades comportamentais.<br>Fundamentos de IA para Devs – Conceitos de inteligência artificial (Santander/DIO).<br>Transformação Digital – Impactos e estratégias da era digital.<br>Python Essencial 1 – Fundamentos de programação com Python.</p>
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Uninter, enquanto aprofundo meus conhecimentos em desenvolvimento web e inteligência artificial por meio de cursos complementares, como The Complete 2024 Web Development Bootcamp e React - The Complete Guide 2024.
+<br><br>
+Ao longo da minha jornada, conclui cursos que fortaleceram tanto minhas habilidades técnicas quanto pessoais:
+<br>
+Plataforma Proa – Desenvolvimento pessoal e habilidades comportamentais.Fundamentos de IA para Devs – Conceitos de inteligência artificial (Santander/DIO).
+Transformação Digital – Impactos e estratégias da era digital.
+Python Essencial 1 – Fundamentos de programação com Python.
+</p>
 
 ###
 
@@ -36,7 +42,7 @@ Plataforma Proa – Desenvolvimento pessoal e habilidades comportamentais.<br>Fu
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Tecnologias 🤖</h3>
 
 ###
 
@@ -71,14 +77,11 @@ Plataforma Proa – Desenvolvimento pessoal e habilidades comportamentais.<br>Fu
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiy0p0N&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiy0p0N&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiy0p0N&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20do%20Felipe" height="262" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiy0p0N&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20de%20Felipe" height="262" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kiy0p0N/Kiy0p0N/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img align="right" src="https://profile-counter.glitch.me/Kiy0p0N/count.svg?"  />
 
