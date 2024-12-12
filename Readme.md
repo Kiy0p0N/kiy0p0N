@@ -1,31 +1,85 @@
-<h1 style="color: #3C5E73">Olá! Eu sou o Felipe</h1>
-</br>
-<p style="font-size: 1.2rem; font-weight: 600">"Às vezes, as pessoas não querem ouvir a verdade porque não querem que suas ilusões sejam destruídas."
-</br>
--Nietzsche</p>
-</br>
+<h2 align="left">Olá! Meu nome é Felipe</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_feliippe__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-cesar-rodrigues) [![Portfolio](https://img.shields.io/website?label=felipe-cesar-rodrigues.com.br&style=for-the-badge&url=https://felipe-cesar-rodrigues.com.br)](https://www.felipe-cesar-rodrigues.com.br)
+###
 
-</br>
+<p align="left">Olá! Eu sou o Felipe Cesar Rodrigues, um apaixonado por tecnologia de 20 anos, morador de Luminosa, Brazópolis - MG. Desde cedo, sou fascinado por como a tecnologia pode transformar o mundo, e isso me motiva a buscar sempre novos aprendizados e desafios.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiy0p0N&show_icons=true&theme=tokyonight)
+###
 
-</br>
+<br clear="both">
 
-<h2 style="color: #3C5E73">Tecnoligias que eu utilizo</h2>
-</br>
-<div style="display: inline_brock">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black">
+<div align="left">
+  <a href="https://www.instagram.com/felp.zip/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-cesar-rodrigues/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0p0N&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-<p>
-    <img src="ipe.jpg" alt="Foto de um ipe durante o nascer do sol no bairro de Luminosa, MG">
-</p>
+<h3 align="left">Aprendizado</h3>
+
+###
+
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Uninter, enquanto aprofundo meus conhecimentos em desenvolvimento web e inteligência artificial por meio de cursos complementares, como The Complete 2024 Web Development Bootcamp e React - The Complete Guide 2024.<br><br>Ao longo da minha jornada, conclui cursos que fortaleceram tanto minhas habilidades técnicas quanto pessoais:<br>
+Plataforma Proa – Desenvolvimento pessoal e habilidades comportamentais.<br>Fundamentos de IA para Devs – Conceitos de inteligência artificial (Santander/DIO).<br>Transformação Digital – Impactos e estratégias da era digital.<br>Python Essencial 1 – Fundamentos de programação com Python.</p>
+
+###
+
+<h3 align="left">Meus Objetivos 🎯</h3>
+
+###
+
+<p align="left">Estou em busca de um estágio para acumular experiência e desenvolver minhas habilidades práticas. Minha meta é me tornar um programador confiável e especialista na área, contribuindo com soluções inovadoras e impactantes.<br><br>Se quiser conhecer mais sobre mim, fique à vontade para explorar meus projetos ou entrar em contato. Vamos construir algo incrível juntos!</p>
+
+###
+
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiy0p0N&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiy0p0N&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiy0p0N&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20do%20Felipe" height="262" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Kiy0p0N/Kiy0p0N/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/Kiy0p0N/count.svg?"  />
+
+###
