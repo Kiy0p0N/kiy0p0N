@@ -21,9 +21,9 @@ Atualmente trabalho com foco em **React, Node.js, Express e PostgreSQL**, sempre
 ---
 
 ## 📌 Projetos em destaque
-- [🌐 Portfólio](https://seuportfolio.com) – Meu site pessoal mostrando projetos e experiências.  
-- [🏥 SGHSS - Sistema de Gestão Hospitalar](https://github.com/seuusuario/SGHSS) – Projeto acadêmico focado em gestão de serviços de saúde.  
-- [🍻 Site Bar Cantagalo](https://github.com/seuusuario/bar-cantagalo) – Projeto real desenvolvido para um comércio local.  
+- [🌐 Portfólio](https://portfolio-1-0-steel.vercel.app/) – Meu site pessoal mostrando projetos e experiências.  
+- [🏥 SGHSS - Sistema de Gestão Hospitalar](https://github.com/Kiy0p0N/projeto-multidisciplinar-frontend) – Projeto acadêmico focado em gestão de serviços de saúde.  
+- [🍻 Site Bar Cantagalo](https://github.com/Kiy0p0N/sabor-da-ro-a) – Projeto real desenvolvido para um comércio local.  
 
 ---
 
