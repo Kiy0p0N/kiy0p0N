@@ -75,5 +75,5 @@ Concluído
 LinkedIn:
 https://www.linkedin.com/in/felipe-cesar-rodrigues/
 
-GitHub:
-https://github.com/Kiy0p0N
+Instagram:
+https://www.instagram.com/felp.zip/
